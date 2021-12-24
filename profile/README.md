@@ -1,8 +1,8 @@
 ---
 
 # What is this organization for?
-- Code storage
+- Code storage (Poggit Down!)
 - Serving personal purposes
-- Etc
+- Etc . . .
 
 ---
